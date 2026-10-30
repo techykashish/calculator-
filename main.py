@@ -1,0 +1,7 @@
+"""Application entry point."""
+
+from calculator.ui import run_app
+
+
+if __name__ == "__main__":
+    run_app()

@@ -1,0 +1,1 @@
+"""Professional Calculator application package."""
